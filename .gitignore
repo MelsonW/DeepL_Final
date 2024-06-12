@@ -1,5 +1,6 @@
 .DS_store
 /model_pt
+/dogImages
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
